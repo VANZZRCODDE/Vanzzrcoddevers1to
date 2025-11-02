@@ -1,0 +1,17 @@
+{
+  "app_name": "VafuvafuGPT",
+  "created_at": "2025-11-02 01:35:59",
+  "users": [
+    {
+      "user_id": "user_1762086929963_e6d93a4b",
+      "session_id": "3814e548-b27c-4181-b00f-63b5167a4065",
+      "device_id": "eb2496abb3cd579c",
+      "device_model": "Infinix X6528B",
+      "android_version": "13",
+      "login_time": "2025-11-02 21:25:08",
+      "app_version": "1.0",
+      "is_first_launch": false
+    }
+  ],
+  "last_updated": "2025-11-02 21:25:08"
+}
